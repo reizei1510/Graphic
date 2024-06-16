@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graf2_2d", "graf2_2d\graf2_2d.csproj", "{0541B14F-8700-41DA-8667-3849376BBC2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0541B14F-8700-41DA-8667-3849376BBC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0541B14F-8700-41DA-8667-3849376BBC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0541B14F-8700-41DA-8667-3849376BBC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0541B14F-8700-41DA-8667-3849376BBC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1569207A-DEF7-4115-B28B-BB4675E511A9}
+	EndGlobalSection
+EndGlobal

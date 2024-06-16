@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graf4", "graf4\graf4.csproj", "{4C618AAA-87AD-44E0-ACF1-8FADFD48B6BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C618AAA-87AD-44E0-ACF1-8FADFD48B6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C618AAA-87AD-44E0-ACF1-8FADFD48B6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C618AAA-87AD-44E0-ACF1-8FADFD48B6BE}.Debug|x86.ActiveCfg = Debug|x86
+		{4C618AAA-87AD-44E0-ACF1-8FADFD48B6BE}.Debug|x86.Build.0 = Debug|x86
+		{4C618AAA-87AD-44E0-ACF1-8FADFD48B6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C618AAA-87AD-44E0-ACF1-8FADFD48B6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C618AAA-87AD-44E0-ACF1-8FADFD48B6BE}.Release|x86.ActiveCfg = Release|x86
+		{4C618AAA-87AD-44E0-ACF1-8FADFD48B6BE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEDF2E5C-C9DD-4217-8F73-699196AA1B72}
+	EndGlobalSection
+EndGlobal
